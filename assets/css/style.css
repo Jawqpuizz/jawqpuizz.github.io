@@ -196,6 +196,14 @@ p:nth-child(4) {
 
 
 	/*--decond page--*/
+
+	#about{
+		display : none;
+	}
+	
+	#home{
+		display	: block;
+	}
 	.about_content{
 		margin-left: 140px;
 		margin-top: 200px;
